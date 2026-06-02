@@ -1,3 +1,5 @@
+Trabajo Práctico: Operación Rescate Estelar
+
 1. Contexto de la Misión
 Un antiguo carguero espacial ha sufrido una avería en un sector inestable, esparciendo valiosos contenedores con recursos por el espacio. El objetivo de este proyecto es incorporar una nueva Nave de Rescate. La misión deberá ser completamente autónoma; es decir, no requiere de interacción de teclado ni mouse. Al iniciar la misión, la nave debe comenzar su recorrido, interactuando con el entorno continuamente para evadir obstáculos y rescatar el cargamento perdido antes de quedarse sin combustible.
 
